@@ -1,0 +1,127 @@
+@import "./main.css";
+.services {
+  margin-top: 57px;
+  background-color: var(--white-bg-color);
+}
+.services-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.services-title {
+  width: 100%;
+  max-width: 454px;
+  margin-bottom: 24px;
+}
+
+.services-description {
+  width: 100%;
+  max-width: 520px;
+}
+/* Faq start */
+.faq {
+  margin-top: 116px;
+  margin-bottom: 106px;
+}
+
+.faq-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.faq-title {
+  margin-bottom: 17px;
+}
+.faq-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.faq-item {
+  width: 100%;
+  max-width: 363px;
+}
+.faq-item-img {
+  margin-bottom: 15px;
+}
+
+.faq-item-title {
+  font-size: 28px;
+  line-height: 37.43px;
+  margin-bottom: 15px;
+}
+
+.faq-description {
+  width: 100%;
+  max-width: 319px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  margin-bottom: 15px;
+}
+
+.faq-description2 {
+  width: 100%;
+  max-width: 329px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  margin-bottom: 15px;
+}
+.faq-description3 {
+  width: 100%;
+  max-width: 329px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  margin-bottom: 15px;
+}
+/* Faq end */
+/* cta start */
+.cta {
+}
+.cta-container {
+}
+.container {
+}
+.cta-img {
+}
+.cta-logo {
+}
+.cta-logo-img {
+  margin-bottom: 10px;
+}
+.cta-content {
+  display: flex;
+  align-items: center;
+}
+.cta-address {
+  margin-right: 47px;
+}
+.cta-description {
+  margin-bottom: 8px;
+}
+.cta-contact {
+}
+.cta-title {
+  margin-bottom: 15px;
+}
+/* cta end */
+/* footer start */
+.footer {
+  background-color: var(--red-text);
+  color: #fff;
+  padding-top: 22px;
+  padding-bottom: 22px;
+}
+.container {
+}
+.footer-container {
+}
+.footer-description {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* footer end */

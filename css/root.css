@@ -1,0 +1,16 @@
+:root {
+  --font-size: 18px;
+  --font-weihght: 500;
+  --text-color: #30444e;
+  --font-family: "Roboto", sans-serif;
+  --link-color: #1f2e35cc;
+  --red-text: #ee4248;
+  --white-bg-color: #f6f6f6;
+}
+.dark {
+  --white-bg-color: #202020;
+  --red-text: #512aac;
+  --text-color: #e0e0e0;
+  --bg-color: #181818;
+  --link-color: #e0e0e0;
+}

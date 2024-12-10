@@ -1,0 +1,40 @@
+@import "./main.css";
+.header {
+  -webkit-box-shadow: 1px 10px 39px -8px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 10px 39px -8px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 10px 39px -8px rgba(0, 0, 0, 0.75);
+  padding-top: 22px;
+  padding-bottom: 22px;
+  margin-bottom: 51px;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+}
+
+.header-logo {
+  margin-right: 108px;
+}
+
+.sitenav {
+  margin-right: auto;
+}
+.sitenav-list {
+  display: flex;
+  gap: 50px;
+}
+
+.sitenav-link {
+  color: var(--link-color);
+  opacity: 80%;
+  text-decoration: none;
+  list-style: none;
+}
+
+.header-icon-list {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+  cursor: pointer;
+}
